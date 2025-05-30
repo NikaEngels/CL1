@@ -1,1 +1,4 @@
-Включает в себя учебную документацию(чек листы,тест кейсы,баг-репорты,тестирование API)
+Includes training documentation (checklists, test cases, bug reports)
+Checklists
+Test Cases
+Bug Report
